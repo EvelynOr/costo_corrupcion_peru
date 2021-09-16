@@ -6,11 +6,17 @@ Se analizan 10 décadas y se presenta el promedio anual por decáda como porcent
 Las variables utilizadas son:
 
 1.Manejo irregular deuda publica	
-1.Corrupción presidencial y militar	
+
+2.Corrupción presidencial y militar	
+
 3.Sobornos	Perdidas indirectas por contrabando y narcotráfico	
+
 4.Inversión directa perdida	
+
 5.Promedio anual total
 
+
 ![](https://github.com/EvelynOr/costo_corrupcion_peru/blob/main/corrupci%C3%B3n_peru.png)
+
 
 Fuente: clase 2, BESTDATASCIENCE/manos-a-la-data, impartida por Jhon Figueroa
