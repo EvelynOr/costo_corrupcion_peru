@@ -16,6 +16,7 @@ Las variables utilizadas son:
 5.Promedio anual total
 
 
+
 ![](https://github.com/EvelynOr/costo_corrupcion_peru/blob/main/corrupci%C3%B3n_peru.png)
 
 
