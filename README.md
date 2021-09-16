@@ -19,4 +19,4 @@ Las variables utilizadas son:
 ![](https://github.com/EvelynOr/costo_corrupcion_peru/blob/main/corrupci%C3%B3n_peru.png)
 
 
-Fuente: clase 2, BESTDATASCIENCE/manos-a-la-data, impartida por Jhon Figueroa
+Fuente: clase 2, BESTDATASCIENCE/manos-a-la-data, impartida por Jhon Figueroa, https://github.com/JhonFiUNFV
